@@ -7,6 +7,7 @@ A complete Retrieval-Augmented Generation (RAG) system designed for processing a
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [Demo](#demo)
 - [Features](#features)
 - [System Requirements](#system-requirements)
 - [Quick Start](#quick-start)
@@ -16,6 +17,16 @@ A complete Retrieval-Augmented Generation (RAG) system designed for processing a
 - [Performance](#performance)
 - [Documentation](#documentation)
 - [Troubleshooting](#troubleshooting)
+
+---
+
+## 🎬 Demo
+
+### Video Demo
+📺 **[Watch Full Demo Video on Google Drive](https://drive.google.com/file/d/1wMMbhj5QRZQ8IpVKZp_jh62eYO7mKtVy/view?usp=sharing)**
+
+### Screenshots
+![System Screenshot](demo/screnshots.png)
 
 ---
 
