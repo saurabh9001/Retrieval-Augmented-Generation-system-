@@ -1,0 +1,11 @@
+llama-index-core>=0.10.0
+llama-index-embeddings-huggingface>=0.2.0
+llama-index-llms-llama-cpp>=0.2.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+psutil>=5.9.0
+streamlit>=1.28.0
+
+# Embedding model - will auto-download BAAI/bge-m3 on first run
+# To pre-download: python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('BAAI/bge-m3')"
