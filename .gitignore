@@ -1,7 +1,8 @@
 # Large files - do not upload to GitHub
 models/
-demo/
 storage/
+demo/*.mov
+demo/*.mp4
 
 # Python
 __pycache__/
