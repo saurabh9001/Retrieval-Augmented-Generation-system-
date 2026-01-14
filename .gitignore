@@ -21,6 +21,3 @@ ENV/
 
 # OS
 .DS_Store
-
-# Reports (large PDFs)
-report/
