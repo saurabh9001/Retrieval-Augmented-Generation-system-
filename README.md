@@ -469,62 +469,6 @@ If issues persist:
 3. Check Python version: `python3 --version`
 4. Verify venv activation: `which python` (should show venv path)
 
----
-
-## 🎓 Assignment Compliance
-
-This project meets all assignment requirements:
-
-### ✅ Technical Requirements
-- [x] Sanskrit document ingestion (.txt format)
-- [x] Preprocessing and indexing pipeline
-- [x] Query interface (CLI + Web)
-- [x] Relevant context retrieval
-- [x] CPU-based LLM generation
-- [x] Modular RAG architecture
-
-### ✅ Deliverables
-- [x] Technical Report (report/TECHNICAL_REPORT.md)
-- [x] Runnable implementation (code/)
-- [x] Setup instructions (this README)
-- [x] Sample documents (data/)
-- [x] Configuration files (requirements.txt)
-
-### ✅ Evaluation Criteria
-- [x] Clear system architecture
-- [x] End-to-end functionality
-- [x] CPU optimization
-- [x] Clean, documented code
-- [x] Detailed technical report
-
-**Status:** ✅ **Ready for Submission**
-
----
-
-## 🤝 Contributing
-
-This is an academic assignment project. For improvements or suggestions:
-
-1. Document the proposed change
-2. Test thoroughly
-3. Update relevant documentation
-4. Ensure backward compatibility
-
----
-
-## 📝 License
-
-This project is created for educational purposes as part of an internship assignment.
-
----
-
-## 🙏 Acknowledgments
-
-- **TinyLlama Team** - Efficient small language model
-- **LlamaIndex** - RAG framework
-- **Sentence Transformers** - Multilingual embeddings
-- **FAISS** - Fast similarity search
-- **Streamlit** - Web interface framework
 
 ---
 
@@ -544,13 +488,4 @@ For questions or issues:
 3. ✅ Read technical report: `report/TECHNICAL_REPORT.md`
 4. ✅ Experiment with your own queries!
 
-**For Submission:**
-1. ✅ Ensure all files are present
-2. ✅ Test the system end-to-end
-3. ✅ Submit to repository
 
----
-
-**Made with ❤️ for Sanskrit NLP**
-
-*Last Updated: January 2026*
